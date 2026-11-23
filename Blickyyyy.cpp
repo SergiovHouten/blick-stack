@@ -42,13 +42,15 @@ int main()
     gen5.push(1);
     gen5.push(2);
     gen5.push(3);
-
+    gen5.push(4);
+    
     cout << "Ammo: ";
     while (!gen5.isEmpty()) {
         cout << gen5.pop() << " ";
     }
     cout << endl;
 
+    gen5.pop();
     gen5.pop();
     gen5.pop();
     gen5.pop();
