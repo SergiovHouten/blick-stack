@@ -1,3 +1,4 @@
+-- Teste para github
 -- Base de Dados de apoio ao Trabalho de Avaliação
 -- Módulo: Linguagem de Manipulação de Dados (SQL)
 -- SGBD: MySQL / MariaDB
